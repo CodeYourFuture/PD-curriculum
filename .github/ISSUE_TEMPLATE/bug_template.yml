@@ -1,6 +1,6 @@
 ---
 name: Bug Template
-description: Raise tickets related to bugs found in the PD Curriculum. Keep in mind we are a small team of volunteers, so this might take up to 2 weeks to be dealt with PS: If you know of anyone wanting to volunteer for us, send them out way #cyf-pd-syllabus
+description: Raise tickets related to bugs found in the PD Curriculum. Keep in mind we are a small team of volunteers, so this might take up to 2 weeks to be dealt with (If you know of anyone wanting to volunteer for us, send them out way #cyf-pd-syllabus)
 title: "[Bug]: <descriptive title>"
 assignees: "@me"
 projects: "PD Syllabus"
