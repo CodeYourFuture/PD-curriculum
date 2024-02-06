@@ -21,7 +21,7 @@ body:
     id: current
     attributes:
       label: What is wrong? 
-      description: Explain what part of the curriculum is not correct: is the timing not adequate? Spelling mistakes? Content isn't clear?
+      description: "Explain what part of the curriculum is not correct: is the timing not adequate? Spelling mistakes? Content isn't clear?"
     validations:
       required: true
   - type: textarea
@@ -33,7 +33,7 @@ body:
       required: true
   - type: dropdown
     id: priority
-   attributes:
+    attributes:
       label: What is the priority of this bug?
       multiple: false
       options:
