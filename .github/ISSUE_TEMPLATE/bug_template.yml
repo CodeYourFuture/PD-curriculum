@@ -4,6 +4,7 @@ description: Raise bugs found in the PD Curriculum. We are a small team, so it m
 title: "[Bug]: <descriptive title>"
 assignees: "@me"
 projects: "PD Syllabus"
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
