@@ -2,7 +2,8 @@
 name: Feedback on PD syllabus
 description: Give feedback on professional development resources to the CYF team
 title: <"Be as descriptive as possible">
-labels: [PD]
+labels: [Feedback]
+projects: "PD-curriculum"
 body:
   - type: markdown
     attributes:
