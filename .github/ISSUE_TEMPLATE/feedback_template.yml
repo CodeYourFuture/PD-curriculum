@@ -47,15 +47,15 @@ body:
       - Not relevant
       - Poor examples / exercises
       - Didn't flow well in the class  
+    - type: input
+    id: old_url
+    attributes:
+      label: Web page address of old content
   - type: textarea
     id: old_content
     attributes:
       label: Extract from the old content
       description: Which existing words / activity / step are you thinking about?
-  - type: input
-    id: old_url
-    attributes:
-      label: Web page address of old content
   - type: textarea
     id: new_content
     attributes:
