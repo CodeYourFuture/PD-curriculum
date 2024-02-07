@@ -48,7 +48,7 @@ body:
       - Poor examples / exercises
       - Didn't flow well in the class 
       - Other
-    - type: input
+  - type: input
     id: old_url
     attributes:
       label: Web page address of old content
