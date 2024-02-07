@@ -46,7 +46,8 @@ body:
       - Too fast / too much detail
       - Not relevant
       - Poor examples / exercises
-      - Didn't flow well in the class  
+      - Didn't flow well in the class 
+      - Other
     - type: input
     id: old_url
     attributes:
