@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: Thank you for offering feedback on the Professional Development curriculum.
-        You are helping to make it better. We will read your comments and put them
+        You are helping to make it better. We will read your comments and work on them as soon as possible. 
   - type: dropdown
     id: effectiveness
     attributes:
